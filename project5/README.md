@@ -1,8 +1,8 @@
-#Multi-Threading Inventory Order Processing
+# Multi-Threading Inventory Order Processing
 
 Processes input of daily orders for a Landscaping company
 
-###Repo includes precompiled executable (a.out)
+### Repo includes precompiled executable (a.out)
 Downloaders may flag the executable, don't download it if you don't want to
 compiled with: g++
 
